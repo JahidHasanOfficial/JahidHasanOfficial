@@ -1,3 +1,4 @@
+![I am Professional Web Developer](https://github.com/JahidHasanOfficial/image/blob/main/Web%20Developer%20(6).png)
 # Hi 👋, I'm Jahid Hasan
 
 <h3 align="center">Programmer | Frontend Developer | Backend Developer | WordPress Developer</h3>
@@ -15,6 +16,7 @@ I am a passionate developer with expertise in **PHP, Laravel, JavaScript, Vue.js
 ## 🛠️ Skills
 
 <p align="center">
+    <img src="https://img.shields.io/badge/OOP-00758F?style=for-the-badge&logo=oop&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -26,6 +28,8 @@ I am a passionate developer with expertise in **PHP, Laravel, JavaScript, Vue.js
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 </p>
 
 ## 📂 Projects
