@@ -3,9 +3,7 @@
 <h3 align="center">Full Stack Laravel Developer | ERP & LMS Developer | REST API Developer</h3>
 
 <p align="center">
-<a href="https://github.com/JahidHasanOfficial">
-<img src="https://komarev.com/ghpvc/?username=JahidHasanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=JahidHasanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
