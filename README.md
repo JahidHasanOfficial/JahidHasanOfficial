@@ -1,71 +1,256 @@
-![I am Professional Web Developer](https://github.com/JahidHasanOfficial/image/blob/main/Web%20Developer%20(6).png)
 # Hi 👋, I'm Jahid Hasan
 
-<h3 align="center">Programmer | Frontend Developer | Backend Developer | WordPress Developer</h3>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=JahidHasanOfficial&color=red)
-
-</div>
-
-## 🚀 About Me
-
-I am a passionate developer with expertise in **PHP, Laravel, JavaScript, Vue.js, HTML, CSS, Bootstrap, Tailwind CSS, and WordPress**. I love building web applications and solving complex problems. Currently, I'm working at [E-Learning & Earning Ltd](https://e-laeltd.com/) and continuously learning new technologies to enhance my skills.
-
-## 🛠️ Skills
+<h3 align="center">Full Stack Laravel Developer | ERP & LMS Developer | REST API Developer</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OOP-00758F?style=for-the-badge&logo=oop&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+<a href="https://github.com/JahidHasanOfficial">
+<img src="https://komarev.com/ghpvc/?username=JahidHasanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 </p>
-
-## 📂 Projects
-
-Here are some of my notable projects:
-
-- **[Project 1](https://github.com/JahidHasanOfficial/project1)** - A brief description of the project.
-- **[Project 2](https://github.com/JahidHasanOfficial/project2)** - A brief description of the project.
-- **[Project 3](https://github.com/JahidHasanOfficial/project3)** - A brief description of the project.
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/JahidHasanOfficial">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JahidHasanOfficial&theme=radical" alt="Jahid GitHub Contribution"/>
-  </a>
+<a href="https://engineerjahid.xyz/">🌐 Portfolio</a> •
+<a href="https://github.com/JahidHasanOfficial">GitHub</a> •
+<a href="https://www.linkedin.com/in/jahidhasan23/">LinkedIn</a> •
+<a href="mailto:jahidhasanofficial23@gmail.com">Email</a>
 </p>
 
-<a> 
-    <a href="https://github.com/JahidHasanOfficial"><img alt="Jahid Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JahidHasanOfficial&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JahidHasanOfficial"><img alt="Jahid Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JahidHasanOfficial&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+---
+
+# 🚀 About Me
+
+I'm a passionate **Full Stack Laravel Developer** from Bangladesh with practical experience in developing **ERP, LMS, CRM, HRM, Inventory, Certificate Verification, and Business Automation Systems**.
+
+I enjoy designing scalable software architecture, building secure REST APIs, optimizing databases, and creating responsive user interfaces.
+
+Currently working as a **Junior Web Developer** at **E-Learning & Earning Ltd**, where I develop enterprise web applications using Laravel and modern frontend technologies.
+
+---
+
+# 💼 What I Build
+
+* 🏢 Enterprise ERP Software
+* 🎓 Learning Management System (LMS)
+* 👨‍💼 Human Resource Management (HRM)
+* 👥 Customer Relationship Management (CRM)
+* 📚 Student Management System
+* 🎖 Certificate Verification System
+* 📦 Inventory & Stock Management
+* 💰 Payroll & Attendance Management
+* 🧾 Report & Dashboard System
+* 🔐 Authentication & Authorization
+* 💳 Payment Gateway Integration
+* 📱 Responsive Business Websites
+* ⚡ REST API Development
+* 📊 Dynamic Admin Panels
+* 📈 Database Optimization
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+* PHP
+* Laravel
+* REST API
+* MVC Architecture
+* OOP
+* Eloquent ORM
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+* JavaScript
+* Vue.js
+* jQuery
+* AJAX
+
+### Database
+
+* MySQL
+
+### CMS
+
+* WordPress
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Composer
+* XAMPP
+* Laragon
+
+---
+
+# 🚀 Professional Skills
+
+✔ Laravel Development
+
+✔ PHP OOP
+
+✔ REST API
+
+✔ CRUD Operations
+
+✔ Authentication
+
+✔ Role & Permission Management
+
+✔ Database Design
+
+✔ Query Optimization
+
+✔ Payment Gateway
+
+✔ PDF Report
+
+✔ Excel Export
+
+✔ Email Integration
+
+✔ SMS Integration
+
+✔ Responsive Design
+
+✔ Performance Optimization
+
+✔ Deployment
+
+---
+
+# 📂 Featured Projects
+
+## 🎓 Learning Management System (LMS)
+
+* Course Management
+* Student Enrollment
+* Batch Management
+* Video Lessons
+* Quiz & Exam
+* Certificate Generation
+* Payment Integration
+
+---
+
+## 🏢 Enterprise ERP
+
+Modules
+
+* HR
+* CRM
+* Accounts
+* Inventory
+* Payroll
+* Attendance
+* Project Management
+* Reporting
+
+---
+
+## 🎖 Certificate Verification
+
+* QR Verification
+* Unique Certificate ID
+* PDF Certificate
+* Online Verification
+* Bulk Certificate Generator
+
+---
+
+## 👨‍🎓 Student Management
+
+* Student Registration
+* Admission
+* Attendance
+* Result Management
+* Dashboard
+* Reports
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JahidHasanOfficial&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JahidHasanOfficial&show_icons=true&theme=github_dark&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahidHasanOfficial&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahidHasanOfficial&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* React.js
+* Inertia.js
+* Docker
+* Redis
+* CI/CD
+* System Design
+
+---
+
+# 🤝 Open for Opportunities
+
+* Full Stack Laravel Development
+* ERP Development
+* LMS Development
+* REST API Development
+* Remote Jobs
+* Freelance Projects
+
+---
+
+# 📫 Contact Me
+
+<p align="left">
+
+<a href="https://engineerjahid.xyz/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-![Jahid Graph](https://github-readme-activity-graph.vercel.app/graph?username=JahidHasanOfficial&custom_title=Jahid%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<a href="https://github.com/JahidHasanOfficial">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 📫 Contact Me
+<a href="https://www.linkedin.com/in/jahidhasan23/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jahidhasan23/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/jahid49hasan" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:jahidhasanofficial23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+<a href="mailto:jahidhasanofficial23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.facebook.com/jahid49hasan">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> "I love transforming business ideas into scalable, secure, and high-performance Laravel applications."
+
+⭐ **If you like my work, don't forget to star my repositories.**
