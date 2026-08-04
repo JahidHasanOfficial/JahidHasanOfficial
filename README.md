@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Laravel Developer** from Bangladesh with practical
 
 I enjoy designing scalable software architecture, building secure REST APIs, optimizing databases, and creating responsive user interfaces.
 
-Currently working as a **Junior Web Developer** at **E-Learning & Earning Ltd**, where I develop enterprise web applications using Laravel and modern frontend technologies.
+Currently working as a **Software Engineer** at **E-Learning & Earning Ltd**, where I develop enterprise web applications using Laravel and modern frontend technologies.
 
 ---
 
